@@ -1,2 +1,8 @@
 # hello-world
-The start of my Git experience
+
+Hello everyone, 
+
+This file marks the start of my Git experience. 
+
+Best, 
+Rick
